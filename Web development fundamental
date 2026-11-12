@@ -1,0 +1,6 @@
+Grading Rubric
+
+Correct HTML Table Structure - <table>, <thead>, <tbody>, <tr>, <th>, <td> used in the right places with no structural errors (25%)
+Working Form Upgrade - <select> with at least 5 options, proper <form> wrapper, button with correct type, and all inputs carrying matching IDs (30%)
+Multimedia Elements - <img> with correct attributes, <iframe> with correct attributes, both rendering correctly in the browser (15%)
+Advanced CSS Selectors - at least three selectors from the Part A list applied correctly and visibly affecting the page (30%)
